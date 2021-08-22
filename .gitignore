@@ -1,0 +1,7 @@
+./front/node_modules
+./rate-repository-api/node_modules
+./front/.git
+./rate-repository-api/.git
+./app.json
+./front/.env
+./rate-repository-api/.env
